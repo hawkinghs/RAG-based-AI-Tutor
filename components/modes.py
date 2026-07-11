@@ -1,0 +1,10 @@
+PDF_TUTOR = "PDF Tutor"
+YOUTUBE_TUTOR = "YouTube Tutor"
+GENERAL_CHAT = "General Chat"
+
+MODE_OPTIONS = [
+    PDF_TUTOR,
+    YOUTUBE_TUTOR,
+    GENERAL_CHAT,
+]
+

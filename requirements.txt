@@ -1,0 +1,37 @@
+streamlit
+langchain
+langchain-community
+langchain-google-genai
+langchain-huggingface
+langchain-text-splitters
+
+faiss-cpu
+
+sentence-transformers
+
+pypdf
+
+pdf2image
+
+pytesseract
+
+youtube-transcript-api
+
+python-dotenv
+
+google-generativeai
+
+tiktoken
+
+unstructured
+
+pandas
+
+numpy
+
+ pdf2image
+
+ pillow
+
+ pymupdf
+
